@@ -294,11 +294,6 @@ The project answers questions such as:
 
 ---
 
-## Fact Table
-
-![Fact Table](docs/fact_sales.png)
-
----
 
 ## Business Analytics Queries
 
