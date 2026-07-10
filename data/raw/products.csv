@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,brand,unit_price
+P0001,Linen Shirt,Fashion,Shirts,Puma,1450.99
+P0002,Potato Chips,Grocery,Snacks,Dell,610.97
+P0003,Samsung Galaxy A55,Electronics,Mobile,Nike,31756.0
+P0004,iPad Air,Electronics,Tablet,Milton,30350.67
+P0005,Dove Shampoo,Beauty,Shampoo,Milton,746.48
+P0006,Sona Masoori Rice,Grocery,Rice,HP,138.11
+P0007,Regular Jeans,Fashion,Jeans,Puma,4093.5
+P0008,Puzzle Game,Toys,Educational,Dell,2872.19
+P0009,Dumbbell Set,Sports,Gym,Dell,1069.04
+P0010,Pressure Cooker,Home & Kitchen,Cooker,Adidas,21728.85
+P0011,SQL Fundamentals,Books,Education,Philips,492.78
+P0012,Cricket Ball,Sports,Cricket,Dell,9293.31
+P0013,Potato Chips,Grocery,Snacks,Sony,489.15
+P0014,Himalaya Face Wash,Beauty,Face Wash,Boat,1701.42
+P0015,Samsung Galaxy A55,Electronics,Mobile,Boat,51133.95
+P0016,Linen Shirt,Fashion,Shirts,Boat,1299.34
+P0017,Chess Board,Toys,Indoor,Lenovo,1508.18
+P0018,Study Table,Home & Kitchen,Furniture,Milton,22496.66
+P0019,Python Programming,Books,Education,Lenovo,1117.15
+P0020,Formal Shirt,Fashion,Shirts,Lenovo,3249.0
+P0021,Atomic Habits,Books,Fiction,Prestige,1272.6
+P0022,Chess Board,Toys,Indoor,HP,3488.12
+P0023,Himalaya Face Wash,Beauty,Face Wash,HP,657.65
+P0024,Sunflower Oil,Grocery,Oil,Puma,973.29
+P0025,Potato Chips,Grocery,Snacks,LG,849.59
+P0026,Mixer Grinder,Home & Kitchen,Mixer,Sony,13714.79
+P0027,Samsung Tab S9,Electronics,Tablet,Nivea,7239.83
+P0028,Football,Sports,Football,Apple,3916.73
+P0029,Linen Shirt,Fashion,Shirts,Nivea,4135.31
+P0030,Sona Masoori Rice,Grocery,Rice,Sony,301.8
+P0031,The Alchemist,Books,Fiction,LG,918.19
+P0032,Football,Sports,Football,HP,4019.42
+P0033,Slim Fit Jeans,Fashion,Jeans,Adidas,3065.67
+P0034,OnePlus 13,Electronics,Mobile,Apple,31328.31
+P0035,Dell Inspiron,Electronics,Laptop,Adidas,37024.89
+P0036,Puzzle Game,Toys,Educational,Nivea,1404.24
+P0037,Chess Board,Toys,Indoor,HP,710.42
+P0038,SQL Fundamentals,Books,Education,Milton,1040.64
+P0039,Lenovo Tab P12,Electronics,Tablet,HP,11970.46
+P0040,Cricket Bat,Sports,Cricket,Nike,3177.05
+P0041,Puzzle Game,Toys,Educational,Sony,1573.09
+P0042,Mixer Grinder,Home & Kitchen,Mixer,HP,1739.41
+P0043,Samsung Galaxy A55,Electronics,Mobile,Sony,51737.62
+P0044,Puzzle Game,Toys,Educational,Apple,1032.03
+P0045,HP Pavilion,Electronics,Laptop,Dove,37803.66
+P0046,Puzzle Game,Toys,Educational,LG,1284.08
+P0047,Lenovo Tab P12,Electronics,Tablet,Apple,91017.19
+P0048,OnePlus 13,Electronics,Mobile,Nivea,62827.79
+P0049,Basmati Rice,Grocery,Rice,Sony,115.1
+P0050,Running Shoes,Fashion,Shoes,Prestige,863.47
+P0051,Office Chair,Home & Kitchen,Furniture,Dell,10771.01
+P0052,Football,Sports,Football,Boat,3884.81
+P0053,Atomic Habits,Books,Fiction,Dove,769.12
+P0054,Casual Shirt,Fashion,Shirts,HP,644.33
+P0055,Study Table,Home & Kitchen,Furniture,Lenovo,23364.85
+P0056,Casual Shirt,Fashion,Shirts,LG,1041.41
+P0057,Himalaya Face Wash,Beauty,Face Wash,LG,1870.34
+P0058,Casual Shirt,Fashion,Shirts,HP,4481.65
+P0059,Groundnut Oil,Grocery,Oil,Nike,731.73
+P0060,Study Table,Home & Kitchen,Furniture,Nivea,6652.47
+P0061,OnePlus 13,Electronics,Mobile,Milton,100375.03
+P0062,iPhone 15,Electronics,Mobile,Lenovo,78268.04
+P0063,Clinic Plus,Beauty,Shampoo,Milton,1165.72
+P0064,Linen Shirt,Fashion,Shirts,Lenovo,2864.27
+P0065,Dumbbell Set,Sports,Gym,Milton,2260.7
+P0066,Lux Soap,Beauty,Soap,Philips,499.15
+P0067,Office Chair,Home & Kitchen,Furniture,Philips,19612.85
+P0068,The Alchemist,Books,Fiction,Sony,1957.17
+P0069,Sunflower Oil,Grocery,Oil,Sony,749.74
+P0070,Football,Sports,Football,Puma,2724.29
+P0071,Slim Fit Jeans,Fashion,Jeans,Nivea,1345.44
+P0072,Chess Board,Toys,Indoor,Adidas,1308.89
+P0073,Pressure Cooker,Home & Kitchen,Cooker,Puma,21676.65
+P0074,Pears Soap,Beauty,Soap,Boat,1884.55
+P0075,Slim Fit Jeans,Fashion,Jeans,Puma,479.81
+P0076,SQL Fundamentals,Books,Education,Milton,1291.18
+P0077,Denim Jeans,Fashion,Jeans,Nike,1497.2
+P0078,The Alchemist,Books,Fiction,Philips,976.34
+P0079,Dumbbell Set,Sports,Gym,HP,10908.41
+P0080,Himalaya Face Wash,Beauty,Face Wash,Milton,719.75
+P0081,Himalaya Face Wash,Beauty,Face Wash,Nike,898.85
+P0082,Atomic Habits,Books,Fiction,Prestige,1186.29
+P0083,HP Pavilion,Electronics,Laptop,Nike,54437.14
+P0084,Football,Sports,Football,Dove,10264.16
+P0085,Puzzle Game,Toys,Educational,LG,2698.4
+P0086,Cricket Bat,Sports,Cricket,LG,3679.75
+P0087,Mixer Grinder,Home & Kitchen,Mixer,Apple,6498.64
+P0088,Puzzle Game,Toys,Educational,Milton,4459.15
+P0089,Study Table,Home & Kitchen,Furniture,Nivea,10291.5
+P0090,Potato Chips,Grocery,Snacks,HP,789.5
+P0091,Mixer Grinder,Home & Kitchen,Mixer,Apple,14156.44
+P0092,Slim Fit Jeans,Fashion,Jeans,Dove,3437.62
+P0093,Football,Sports,Football,Dove,13499.24
+P0094,Chess Board,Toys,Indoor,Adidas,4239.35
+P0095,Himalaya Face Wash,Beauty,Face Wash,Adidas,621.74
+P0096,Sneakers,Fashion,Shoes,Adidas,1577.06
+P0097,Dumbbell Set,Sports,Gym,Lenovo,2602.13
+P0098,The Alchemist,Books,Fiction,Dell,946.76
+P0099,Dumbbell Set,Sports,Gym,Milton,1309.08
+P0100,Python Programming,Books,Education,Prestige,1058.56
+P0101,Football,Sports,Football,Milton,8258.02
+P0102,Pressure Cooker,Home & Kitchen,Cooker,Puma,11177.98
+P0103,HP Pavilion,Electronics,Laptop,Prestige,88280.86
+P0104,Puzzle Game,Toys,Educational,Prestige,3061.49
+P0105,OnePlus 13,Electronics,Mobile,Milton,20605.44
+P0106,Puzzle Game,Toys,Educational,Puma,2050.74
+P0107,Pressure Cooker,Home & Kitchen,Cooker,Boat,19150.13
+P0108,SQL Fundamentals,Books,Education,Puma,1702.84
+P0109,Puzzle Game,Toys,Educational,Philips,1315.06
+P0110,Running Shoes,Fashion,Shoes,Samsung,4763.18
+P0111,Mixer Grinder,Home & Kitchen,Mixer,Adidas,3592.41
+P0112,Running Shoes,Fashion,Shoes,Dove,3587.49
+P0113,Cricket Bat,Sports,Cricket,Sony,14484.92
+P0114,Running Shoes,Fashion,Shoes,LG,3006.24
+P0115,Python Programming,Books,Education,Dell,1265.78
+P0116,Mixer Grinder,Home & Kitchen,Mixer,HP,20007.57
+P0117,Lenovo ThinkPad,Electronics,Laptop,Milton,81074.95
+P0118,Sports Shoes,Fashion,Shoes,Boat,359.47
+P0119,Python Programming,Books,Education,Milton,1929.42
+P0120,Puzzle Game,Toys,Educational,Sony,3735.53
+P0121,Himalaya Face Wash,Beauty,Face Wash,Dove,927.59
+P0122,Lux Soap,Beauty,Soap,Dell,629.96
+P0123,Puzzle Game,Toys,Educational,Prestige,1847.88
+P0124,Chess Board,Toys,Indoor,Nivea,1257.57
+P0125,Pears Soap,Beauty,Soap,Puma,1156.0
+P0126,Mixer Grinder,Home & Kitchen,Mixer,Milton,12470.16
+P0127,Study Table,Home & Kitchen,Furniture,Nivea,11480.28
+P0128,iPhone 15,Electronics,Mobile,Adidas,51506.13
+P0129,Pressure Cooker,Home & Kitchen,Cooker,Nivea,14060.09
+P0130,Football,Sports,Football,Philips,10661.68
+P0131,Pears Soap,Beauty,Soap,Adidas,329.25
+P0132,Pressure Cooker,Home & Kitchen,Cooker,Sony,5192.75
+P0133,Chess Board,Toys,Indoor,HP,4204.98
+P0134,Clinic Plus,Beauty,Shampoo,Sony,674.31
+P0135,Sunflower Oil,Grocery,Oil,Apple,575.69
+P0136,Namkeen,Grocery,Snacks,HP,879.08
+P0137,Pears Soap,Beauty,Soap,Dove,747.34
+P0138,HP Pavilion,Electronics,Laptop,HP,99543.3
+P0139,Python Programming,Books,Education,Apple,473.11
+P0140,Dove Shampoo,Beauty,Shampoo,HP,1160.34
+P0141,Atomic Habits,Books,Fiction,Dove,1835.31
+P0142,Himalaya Face Wash,Beauty,Face Wash,LG,1180.4
+P0143,Lenovo Tab P12,Electronics,Tablet,HP,113972.87
+P0144,Office Chair,Home & Kitchen,Furniture,Puma,16680.49
+P0145,Basmati Rice,Grocery,Rice,Dell,198.71
+P0146,SQL Fundamentals,Books,Education,LG,258.75
+P0147,Himalaya Face Wash,Beauty,Face Wash,Dove,235.24
+P0148,Pressure Cooker,Home & Kitchen,Cooker,Milton,3312.02
+P0149,Office Chair,Home & Kitchen,Furniture,Puma,20752.46
+P0150,Formal Shirt,Fashion,Shirts,LG,3096.71
+P0151,Lux Soap,Beauty,Soap,Dove,1408.49
+P0152,SQL Fundamentals,Books,Education,Dove,344.8
+P0153,Lenovo ThinkPad,Electronics,Laptop,Boat,74427.07
+P0154,Samsung Galaxy A55,Electronics,Mobile,Samsung,119950.83
+P0155,Himalaya Face Wash,Beauty,Face Wash,Sony,993.95
+P0156,Chess Board,Toys,Indoor,Milton,3265.23
+P0157,Puzzle Game,Toys,Educational,Philips,2189.65
+P0158,Dumbbell Set,Sports,Gym,Sony,5215.13
+P0159,Chess Board,Toys,Indoor,Apple,2410.42
+P0160,Football,Sports,Football,HP,14564.7
+P0161,Atomic Habits,Books,Fiction,Milton,297.57
+P0162,Dumbbell Set,Sports,Gym,Dove,11495.86
+P0163,Pressure Cooker,Home & Kitchen,Cooker,LG,11233.84
+P0164,Puzzle Game,Toys,Educational,Adidas,3621.47
+P0165,Himalaya Face Wash,Beauty,Face Wash,Milton,277.1
+P0166,Slim Fit Jeans,Fashion,Jeans,Lenovo,2642.36
+P0167,Himalaya Face Wash,Beauty,Face Wash,Milton,1685.98
+P0168,Puzzle Game,Toys,Educational,Lenovo,2072.03
+P0169,Sona Masoori Rice,Grocery,Rice,Milton,372.88
+P0170,Clinic Plus,Beauty,Shampoo,LG,1691.2
+P0171,Puzzle Game,Toys,Educational,Nivea,1889.34
+P0172,SQL Fundamentals,Books,Education,Nike,1965.39
+P0173,Study Table,Home & Kitchen,Furniture,Adidas,21472.32
+P0174,Atomic Habits,Books,Fiction,Nivea,1469.41
+P0175,Python Programming,Books,Education,Nivea,1936.68
+P0176,Namkeen,Grocery,Snacks,HP,880.48
+P0177,Puzzle Game,Toys,Educational,Samsung,3681.61
+P0178,The Alchemist,Books,Fiction,Nivea,1606.75
+P0179,Pears Soap,Beauty,Soap,Dell,1718.35
+P0180,SQL Fundamentals,Books,Education,Apple,1311.43
+P0181,Study Table,Home & Kitchen,Furniture,Adidas,18795.78
+P0182,The Alchemist,Books,Fiction,Dove,499.46
+P0183,Dove Shampoo,Beauty,Shampoo,Boat,1612.67
+P0184,Pears Soap,Beauty,Soap,Milton,376.58
+P0185,The Alchemist,Books,Fiction,Sony,342.14
+P0186,Atomic Habits,Books,Fiction,Lenovo,617.94
+P0187,Pears Soap,Beauty,Soap,Samsung,1807.93
+P0188,Chess Board,Toys,Indoor,Dell,2348.22
+P0189,Dumbbell Set,Sports,Gym,Milton,10478.58
+P0190,Chess Board,Toys,Indoor,Prestige,4303.34
+P0191,Casual Shirt,Fashion,Shirts,Philips,3001.62
+P0192,Clinic Plus,Beauty,Shampoo,Puma,115.39
+P0193,Lenovo Tab P12,Electronics,Tablet,Nivea,100776.47
+P0194,Clinic Plus,Beauty,Shampoo,Adidas,1309.57
+P0195,Himalaya Face Wash,Beauty,Face Wash,HP,1816.47
+P0196,HP Pavilion,Electronics,Laptop,Apple,71650.99
+P0197,Sona Masoori Rice,Grocery,Rice,Boat,760.11
+P0198,Basmati Rice,Grocery,Rice,Philips,554.31
+P0199,Clinic Plus,Beauty,Shampoo,Nivea,1938.03
+P0200,Himalaya Face Wash,Beauty,Face Wash,HP,989.83
+P0201,Formal Shirt,Fashion,Shirts,Prestige,4846.17
+P0202,Cricket Ball,Sports,Cricket,Samsung,4261.1
+P0203,Regular Jeans,Fashion,Jeans,Puma,3047.43
+P0204,Cricket Bat,Sports,Cricket,Nivea,765.36
+P0205,Dumbbell Set,Sports,Gym,Dell,9676.9
+P0206,Chess Board,Toys,Indoor,HP,913.94
+P0207,HP Pavilion,Electronics,Laptop,HP,16177.08
+P0208,Groundnut Oil,Grocery,Oil,Philips,686.96
+P0209,Atomic Habits,Books,Fiction,HP,1700.65
+P0210,Python Programming,Books,Education,Philips,591.09
+P0211,Puzzle Game,Toys,Educational,HP,4909.41
+P0212,Dumbbell Set,Sports,Gym,Apple,6212.84
+P0213,Mixer Grinder,Home & Kitchen,Mixer,Dell,16737.83
+P0214,iPhone 15,Electronics,Mobile,Adidas,118714.4
+P0215,Mixer Grinder,Home & Kitchen,Mixer,Nike,20419.8
+P0216,Pressure Cooker,Home & Kitchen,Cooker,Samsung,7293.23
+P0217,Sona Masoori Rice,Grocery,Rice,Sony,154.43
+P0218,Samsung Galaxy A55,Electronics,Mobile,Philips,95848.24
+P0219,Study Table,Home & Kitchen,Furniture,Samsung,4769.03
+P0220,OnePlus 13,Electronics,Mobile,Milton,65499.84
+P0221,Regular Jeans,Fashion,Jeans,Philips,2712.22
+P0222,Denim Jeans,Fashion,Jeans,Adidas,4743.45
+P0223,Lenovo Tab P12,Electronics,Tablet,LG,57674.89
+P0224,iPhone 15,Electronics,Mobile,Prestige,54021.47
+P0225,Denim Jeans,Fashion,Jeans,Dove,645.41
+P0226,Denim Jeans,Fashion,Jeans,Lenovo,608.71
+P0227,Himalaya Face Wash,Beauty,Face Wash,Prestige,1989.79
+P0228,Pears Soap,Beauty,Soap,HP,1606.88
+P0229,Sports Shoes,Fashion,Shoes,Nike,2321.33
+P0230,Pressure Cooker,Home & Kitchen,Cooker,Dove,10268.89
+P0231,Regular Jeans,Fashion,Jeans,Boat,3426.01
+P0232,Cricket Ball,Sports,Cricket,Dell,1731.88
+P0233,Casual Shirt,Fashion,Shirts,HP,3799.57
+P0234,Cricket Bat,Sports,Cricket,Boat,10182.19
+P0235,SQL Fundamentals,Books,Education,Apple,1943.12
+P0236,Lux Soap,Beauty,Soap,Nike,393.99
+P0237,Puzzle Game,Toys,Educational,Philips,4265.52
+P0238,Cricket Ball,Sports,Cricket,Adidas,12185.43
+P0239,Lenovo Tab P12,Electronics,Tablet,Puma,8329.62
+P0240,Himalaya Face Wash,Beauty,Face Wash,Boat,766.94
+P0241,Sona Masoori Rice,Grocery,Rice,Dell,184.78
+P0242,OnePlus 13,Electronics,Mobile,Nike,48262.36
+P0243,Chess Board,Toys,Indoor,Philips,1730.28
+P0244,Dumbbell Set,Sports,Gym,Apple,2671.47
+P0245,iPad Air,Electronics,Tablet,Puma,55957.99
+P0246,SQL Fundamentals,Books,Education,Milton,691.7
+P0247,Regular Jeans,Fashion,Jeans,HP,1631.26
+P0248,Chess Board,Toys,Indoor,Adidas,2127.5
+P0249,Samsung Galaxy A55,Electronics,Mobile,LG,113712.27
+P0250,Groundnut Oil,Grocery,Oil,Boat,163.99
+P0251,Chess Board,Toys,Indoor,Lenovo,2055.99
+P0252,Study Table,Home & Kitchen,Furniture,Dell,10228.24
+P0253,Dell Inspiron,Electronics,Laptop,Dove,110933.68
+P0254,Dumbbell Set,Sports,Gym,Prestige,10758.68
+P0255,Python Programming,Books,Education,Prestige,237.54
+P0256,Cricket Ball,Sports,Cricket,Philips,1686.7
+P0257,Casual Shirt,Fashion,Shirts,Prestige,2762.62
+P0258,SQL Fundamentals,Books,Education,Adidas,799.52
+P0259,Basmati Rice,Grocery,Rice,Nike,910.63
+P0260,Football,Sports,Football,Adidas,1900.95
+P0261,Dove Shampoo,Beauty,Shampoo,Lenovo,1544.41
+P0262,Linen Shirt,Fashion,Shirts,Nivea,2480.58
+P0263,Chess Board,Toys,Indoor,Lenovo,2338.87
+P0264,Chess Board,Toys,Indoor,Puma,3059.24
+P0265,Dumbbell Set,Sports,Gym,LG,7141.44
+P0266,iPhone 15,Electronics,Mobile,LG,13824.07
+P0267,Sports Shoes,Fashion,Shoes,Prestige,2474.74
+P0268,Lenovo ThinkPad,Electronics,Laptop,Nike,41975.58
+P0269,Puzzle Game,Toys,Educational,Dove,741.63
+P0270,Dumbbell Set,Sports,Gym,Sony,971.48
+P0271,Chess Board,Toys,Indoor,Philips,2021.05
+P0272,Pears Soap,Beauty,Soap,Boat,1389.91
+P0273,Lenovo Tab P12,Electronics,Tablet,Boat,12579.86
+P0274,Sports Shoes,Fashion,Shoes,Prestige,1635.49
+P0275,Sunflower Oil,Grocery,Oil,Lenovo,920.91
+P0276,Himalaya Face Wash,Beauty,Face Wash,Lenovo,1230.58
+P0277,Denim Jeans,Fashion,Jeans,Prestige,3324.42
+P0278,Cricket Bat,Sports,Cricket,Milton,7823.93
+P0279,HP Pavilion,Electronics,Laptop,Sony,114384.47
+P0280,Football,Sports,Football,Adidas,14999.66
+P0281,Sona Masoori Rice,Grocery,Rice,HP,532.31
+P0282,Samsung Tab S9,Electronics,Tablet,Lenovo,73683.34
+P0283,Basmati Rice,Grocery,Rice,Sony,735.12
+P0284,HP Pavilion,Electronics,Laptop,Adidas,116502.69
+P0285,Himalaya Face Wash,Beauty,Face Wash,Adidas,1114.62
+P0286,Lux Soap,Beauty,Soap,Philips,1388.78
+P0287,Chess Board,Toys,Indoor,Prestige,2638.81
+P0288,The Alchemist,Books,Fiction,Lenovo,1771.4
+P0289,Samsung Tab S9,Electronics,Tablet,Philips,68772.19
+P0290,Sports Shoes,Fashion,Shoes,HP,1639.8
+P0291,Groundnut Oil,Grocery,Oil,Lenovo,839.49
+P0292,Casual Shirt,Fashion,Shirts,Philips,4673.22
+P0293,Atomic Habits,Books,Fiction,Philips,624.4
+P0294,Slim Fit Jeans,Fashion,Jeans,Samsung,1797.82
+P0295,Sports Shoes,Fashion,Shoes,Boat,4019.49
+P0296,Sona Masoori Rice,Grocery,Rice,Nivea,711.27
+P0297,Namkeen,Grocery,Snacks,Dove,634.58
+P0298,Casual Shirt,Fashion,Shirts,Nike,4224.33
+P0299,Atomic Habits,Books,Fiction,Adidas,742.07
+P0300,iPhone 15,Electronics,Mobile,Dove,12222.82
+P0301,Puzzle Game,Toys,Educational,Lenovo,1633.54
+P0302,Samsung Tab S9,Electronics,Tablet,Adidas,70626.33
+P0303,Potato Chips,Grocery,Snacks,Philips,114.3
+P0304,HP Pavilion,Electronics,Laptop,Apple,78102.14
+P0305,Football,Sports,Football,Philips,11912.39
+P0306,Cricket Bat,Sports,Cricket,Boat,2347.78
+P0307,Dumbbell Set,Sports,Gym,Sony,12523.6
+P0308,Chess Board,Toys,Indoor,Lenovo,549.73
+P0309,Puzzle Game,Toys,Educational,Nike,458.08
+P0310,Mixer Grinder,Home & Kitchen,Mixer,LG,13126.9
+P0311,Chess Board,Toys,Indoor,Nike,1609.03
+P0312,Samsung Tab S9,Electronics,Tablet,Puma,19314.63
+P0313,Football,Sports,Football,Dove,13461.71
+P0314,Python Programming,Books,Education,Nivea,1445.72
+P0315,Dumbbell Set,Sports,Gym,Dell,11015.39
+P0316,Denim Jeans,Fashion,Jeans,Sony,2863.73
+P0317,Cricket Bat,Sports,Cricket,Boat,10049.42
+P0318,Pears Soap,Beauty,Soap,Sony,1410.55
+P0319,Football,Sports,Football,Philips,9376.83
+P0320,Python Programming,Books,Education,Dell,1408.13
+P0321,Python Programming,Books,Education,Samsung,457.0
+P0322,Puzzle Game,Toys,Educational,Dell,1370.98
+P0323,Football,Sports,Football,Apple,9234.38
+P0324,Chess Board,Toys,Indoor,Dove,3874.65
+P0325,Namkeen,Grocery,Snacks,Prestige,348.67
+P0326,Dove Shampoo,Beauty,Shampoo,Samsung,1497.78
+P0327,Chess Board,Toys,Indoor,Puma,3931.08
+P0328,Puzzle Game,Toys,Educational,Nivea,1200.85
+P0329,Sona Masoori Rice,Grocery,Rice,Sony,903.75
+P0330,Puzzle Game,Toys,Educational,Philips,3620.32
+P0331,Lux Soap,Beauty,Soap,Sony,1608.02
+P0332,Mixer Grinder,Home & Kitchen,Mixer,Lenovo,6300.04
+P0333,Puzzle Game,Toys,Educational,Philips,2470.18
+P0334,Potato Chips,Grocery,Snacks,Dell,343.83
+P0335,Chess Board,Toys,Indoor,Dell,845.3
+P0336,Dumbbell Set,Sports,Gym,Dove,7201.16
+P0337,Cricket Bat,Sports,Cricket,Lenovo,6716.23
+P0338,OnePlus 13,Electronics,Mobile,Lenovo,39974.32
+P0339,Sunflower Oil,Grocery,Oil,Philips,950.11
+P0340,Clinic Plus,Beauty,Shampoo,Nike,1306.61
+P0341,Clinic Plus,Beauty,Shampoo,Dell,1054.89
+P0342,Potato Chips,Grocery,Snacks,Sony,675.8
+P0343,Dumbbell Set,Sports,Gym,Samsung,1585.85
+P0344,Himalaya Face Wash,Beauty,Face Wash,Milton,1274.41
+P0345,Lenovo ThinkPad,Electronics,Laptop,LG,78819.34
+P0346,Lux Soap,Beauty,Soap,Prestige,665.12
+P0347,Running Shoes,Fashion,Shoes,Sony,2366.15
+P0348,Chess Board,Toys,Indoor,Boat,3131.64
+P0349,Dumbbell Set,Sports,Gym,Philips,14640.46
+P0350,Sunflower Oil,Grocery,Oil,Boat,279.65
+P0351,Regular Jeans,Fashion,Jeans,Adidas,962.12
+P0352,HP Pavilion,Electronics,Laptop,Milton,33551.08
+P0353,Groundnut Oil,Grocery,Oil,Nike,774.97
+P0354,Chess Board,Toys,Indoor,LG,2612.51
+P0355,Denim Jeans,Fashion,Jeans,Dove,4843.43
+P0356,Study Table,Home & Kitchen,Furniture,Apple,1738.24
+P0357,Chess Board,Toys,Indoor,Samsung,4274.07
+P0358,Atomic Habits,Books,Fiction,Philips,1574.94
+P0359,Cricket Ball,Sports,Cricket,Apple,8726.11
+P0360,Pressure Cooker,Home & Kitchen,Cooker,Dell,9965.55
+P0361,Chess Board,Toys,Indoor,Lenovo,4881.64
+P0362,SQL Fundamentals,Books,Education,Philips,1558.94
+P0363,Study Table,Home & Kitchen,Furniture,Apple,1609.93
+P0364,Namkeen,Grocery,Snacks,Nivea,543.37
+P0365,Potato Chips,Grocery,Snacks,Boat,934.8
+P0366,Cricket Ball,Sports,Cricket,LG,9068.38
+P0367,Chess Board,Toys,Indoor,Samsung,1999.7
+P0368,Denim Jeans,Fashion,Jeans,LG,4044.75
+P0369,Samsung Tab S9,Electronics,Tablet,Puma,116213.13
+P0370,Office Chair,Home & Kitchen,Furniture,Nivea,4677.55
+P0371,The Alchemist,Books,Fiction,Apple,1230.63
+P0372,Formal Shirt,Fashion,Shirts,Dove,1774.35
+P0373,Sunflower Oil,Grocery,Oil,Milton,526.73
+P0374,Puzzle Game,Toys,Educational,Nike,2914.21
+P0375,Chess Board,Toys,Indoor,Sony,2433.4
+P0376,Dumbbell Set,Sports,Gym,Puma,9307.12
+P0377,Mixer Grinder,Home & Kitchen,Mixer,LG,6009.24
+P0378,Lux Soap,Beauty,Soap,Nivea,702.38
+P0379,Dumbbell Set,Sports,Gym,LG,2179.36
+P0380,SQL Fundamentals,Books,Education,Lenovo,722.81
+P0381,Himalaya Face Wash,Beauty,Face Wash,Philips,1855.62
+P0382,Himalaya Face Wash,Beauty,Face Wash,Nike,483.93
+P0383,Himalaya Face Wash,Beauty,Face Wash,Lenovo,307.53
+P0384,Mixer Grinder,Home & Kitchen,Mixer,Adidas,16129.64
+P0385,iPhone 15,Electronics,Mobile,Boat,87496.18
+P0386,Running Shoes,Fashion,Shoes,Samsung,4833.24
+P0387,Groundnut Oil,Grocery,Oil,Nivea,668.01
+P0388,Pears Soap,Beauty,Soap,Apple,1825.08
+P0389,Sports Shoes,Fashion,Shoes,Adidas,2815.22
+P0390,iPhone 15,Electronics,Mobile,Sony,112401.1
+P0391,HP Pavilion,Electronics,Laptop,Sony,112710.01
+P0392,Dove Shampoo,Beauty,Shampoo,LG,1179.13
+P0393,Regular Jeans,Fashion,Jeans,Dove,4948.77
+P0394,Puzzle Game,Toys,Educational,Puma,1165.85
+P0395,Slim Fit Jeans,Fashion,Jeans,Dove,3346.94
+P0396,Sona Masoori Rice,Grocery,Rice,LG,589.39
+P0397,Mixer Grinder,Home & Kitchen,Mixer,Milton,13124.38
+P0398,Denim Jeans,Fashion,Jeans,HP,1168.47
+P0399,Groundnut Oil,Grocery,Oil,Adidas,56.49
+P0400,Atomic Habits,Books,Fiction,Puma,1917.26
+P0401,Himalaya Face Wash,Beauty,Face Wash,Puma,1342.0
+P0402,Mixer Grinder,Home & Kitchen,Mixer,Dove,8016.76
+P0403,Python Programming,Books,Education,LG,861.58
+P0404,Mixer Grinder,Home & Kitchen,Mixer,Nivea,4253.05
+P0405,Football,Sports,Football,Nike,11523.15
+P0406,Sneakers,Fashion,Shoes,Philips,667.08
+P0407,Linen Shirt,Fashion,Shirts,Nike,2991.7
+P0408,Sona Masoori Rice,Grocery,Rice,Dove,160.43
+P0409,Study Table,Home & Kitchen,Furniture,Dell,22522.79
+P0410,Puzzle Game,Toys,Educational,Lenovo,2687.93
+P0411,Puzzle Game,Toys,Educational,LG,3685.58
+P0412,Python Programming,Books,Education,Nike,1240.96
+P0413,HP Pavilion,Electronics,Laptop,Dell,67233.8
+P0414,iPhone 15,Electronics,Mobile,Apple,38015.43
+P0415,Sona Masoori Rice,Grocery,Rice,Philips,993.21
+P0416,SQL Fundamentals,Books,Education,Prestige,344.45
+P0417,Namkeen,Grocery,Snacks,HP,219.55
+P0418,The Alchemist,Books,Fiction,Samsung,1561.12
+P0419,Pears Soap,Beauty,Soap,Prestige,1664.38
+P0420,Pressure Cooker,Home & Kitchen,Cooker,Lenovo,7253.42
+P0421,Linen Shirt,Fashion,Shirts,Milton,3190.14
+P0422,Samsung Galaxy A55,Electronics,Mobile,Dell,16603.12
+P0423,Lenovo ThinkPad,Electronics,Laptop,Apple,33144.43
+P0424,HP Pavilion,Electronics,Laptop,Adidas,67072.38
+P0425,OnePlus 13,Electronics,Mobile,LG,31928.57
+P0426,Dumbbell Set,Sports,Gym,Adidas,4805.76
+P0427,Potato Chips,Grocery,Snacks,Milton,335.48
+P0428,Lenovo Tab P12,Electronics,Tablet,Sony,76989.21
+P0429,Python Programming,Books,Education,Philips,1894.86
+P0430,SQL Fundamentals,Books,Education,Milton,468.59
+P0431,Atomic Habits,Books,Fiction,Adidas,1728.81
+P0432,Himalaya Face Wash,Beauty,Face Wash,Dove,1838.01
+P0433,Python Programming,Books,Education,Prestige,637.15
+P0434,Pressure Cooker,Home & Kitchen,Cooker,Dove,21254.77
+P0435,Sports Shoes,Fashion,Shoes,Nike,542.22
+P0436,The Alchemist,Books,Fiction,Nike,1648.37
+P0437,Pressure Cooker,Home & Kitchen,Cooker,Boat,7928.11
+P0438,Samsung Galaxy A55,Electronics,Mobile,HP,90891.11
+P0439,Puzzle Game,Toys,Educational,Prestige,4596.85
+P0440,Football,Sports,Football,Dove,8191.29
+P0441,Football,Sports,Football,Philips,7887.12
+P0442,Chess Board,Toys,Indoor,Nivea,3867.74
+P0443,Cricket Ball,Sports,Cricket,Boat,6443.38
+P0444,Office Chair,Home & Kitchen,Furniture,Samsung,6888.97
+P0445,Python Programming,Books,Education,Nike,793.76
+P0446,Atomic Habits,Books,Fiction,Boat,663.19
+P0447,Chess Board,Toys,Indoor,Sony,3730.67
+P0448,Cricket Bat,Sports,Cricket,Nivea,3087.1
+P0449,iPad Air,Electronics,Tablet,Dell,113696.63
+P0450,iPhone 15,Electronics,Mobile,Lenovo,101892.64
+P0451,Mixer Grinder,Home & Kitchen,Mixer,Samsung,5858.63
+P0452,Chess Board,Toys,Indoor,Nivea,3381.6
+P0453,OnePlus 13,Electronics,Mobile,Milton,6362.86
+P0454,Himalaya Face Wash,Beauty,Face Wash,Samsung,1054.21
+P0455,The Alchemist,Books,Fiction,HP,1143.89
+P0456,Mixer Grinder,Home & Kitchen,Mixer,Philips,7049.46
+P0457,Atomic Habits,Books,Fiction,Prestige,1026.2
+P0458,Office Chair,Home & Kitchen,Furniture,LG,17259.02
+P0459,Sports Shoes,Fashion,Shoes,Apple,739.45
+P0460,SQL Fundamentals,Books,Education,Apple,1346.15
+P0461,Sona Masoori Rice,Grocery,Rice,Milton,662.66
+P0462,Dumbbell Set,Sports,Gym,Apple,3754.59
+P0463,Chess Board,Toys,Indoor,Dell,3501.04
+P0464,Himalaya Face Wash,Beauty,Face Wash,Sony,1864.66
+P0465,Cricket Bat,Sports,Cricket,Lenovo,11382.92
+P0466,Atomic Habits,Books,Fiction,Sony,1215.12
+P0467,SQL Fundamentals,Books,Education,Lenovo,1622.9
+P0468,Sports Shoes,Fashion,Shoes,Philips,552.37
+P0469,The Alchemist,Books,Fiction,Boat,1289.3
+P0470,Python Programming,Books,Education,Puma,1610.39
+P0471,Chess Board,Toys,Indoor,Philips,2876.93
+P0472,Python Programming,Books,Education,Prestige,354.25
+P0473,Dove Shampoo,Beauty,Shampoo,Dell,609.15
+P0474,Atomic Habits,Books,Fiction,Boat,849.26
+P0475,Casual Shirt,Fashion,Shirts,Dove,1991.61
+P0476,Dove Shampoo,Beauty,Shampoo,Dell,456.04
+P0477,Chess Board,Toys,Indoor,Samsung,675.69
+P0478,Sports Shoes,Fashion,Shoes,Boat,4359.48
+P0479,HP Pavilion,Electronics,Laptop,Prestige,94604.45
+P0480,Office Chair,Home & Kitchen,Furniture,Prestige,4652.79
+P0481,Pears Soap,Beauty,Soap,Nivea,377.28
+P0482,Groundnut Oil,Grocery,Oil,Milton,334.76
+P0483,Regular Jeans,Fashion,Jeans,Adidas,3688.23
+P0484,Puzzle Game,Toys,Educational,HP,893.58
+P0485,HP Pavilion,Electronics,Laptop,Prestige,97468.79
+P0486,Football,Sports,Football,Milton,12305.94
+P0487,Groundnut Oil,Grocery,Oil,Nike,505.06
+P0488,Groundnut Oil,Grocery,Oil,LG,748.13
+P0489,Puzzle Game,Toys,Educational,Prestige,1581.43
+P0490,Python Programming,Books,Education,Nike,1266.01
+P0491,Potato Chips,Grocery,Snacks,Dove,945.83
+P0492,Pressure Cooker,Home & Kitchen,Cooker,Dell,20564.66
+P0493,Python Programming,Books,Education,LG,635.64
+P0494,Namkeen,Grocery,Snacks,Prestige,120.27
+P0495,Chess Board,Toys,Indoor,Apple,4005.92
+P0496,Dumbbell Set,Sports,Gym,HP,11626.73
+P0497,Cricket Bat,Sports,Cricket,Prestige,14515.44
+P0498,Football,Sports,Football,Samsung,1839.66
+P0499,Office Chair,Home & Kitchen,Furniture,Dove,9665.93
+P0500,Puzzle Game,Toys,Educational,Samsung,2543.16

@@ -1,0 +1,121 @@
+store_id,store_name,city,state,region
+S001,RetailMart Mysuru Branch 1,Mysuru,Karnataka,South
+S002,RetailMart Hyderabad Branch 2,Hyderabad,Telangana,South
+S003,RetailMart Ahmedabad Branch 3,Ahmedabad,Gujarat,West
+S004,RetailMart Pune Branch 4,Pune,Maharashtra,West
+S005,RetailMart Pune Branch 5,Pune,Maharashtra,West
+S006,RetailMart Chennai Branch 6,Chennai,Tamil Nadu,South
+S007,RetailMart Mysuru Branch 7,Mysuru,Karnataka,South
+S008,RetailMart Bengaluru Branch 8,Bengaluru,Karnataka,South
+S009,RetailMart Jaipur Branch 9,Jaipur,Rajasthan,North
+S010,RetailMart Warangal Branch 10,Warangal,Telangana,South
+S011,RetailMart Hyderabad Branch 11,Hyderabad,Telangana,South
+S012,RetailMart Bengaluru Branch 12,Bengaluru,Karnataka,South
+S013,RetailMart Mumbai Branch 13,Mumbai,Maharashtra,West
+S014,RetailMart Pune Branch 14,Pune,Maharashtra,West
+S015,RetailMart Hyderabad Branch 15,Hyderabad,Telangana,South
+S016,RetailMart Mumbai Branch 16,Mumbai,Maharashtra,West
+S017,RetailMart Jaipur Branch 17,Jaipur,Rajasthan,North
+S018,RetailMart Pune Branch 18,Pune,Maharashtra,West
+S019,RetailMart Kolkata Branch 19,Kolkata,West Bengal,East
+S020,RetailMart Ahmedabad Branch 20,Ahmedabad,Gujarat,West
+S021,RetailMart Hyderabad Branch 21,Hyderabad,Telangana,South
+S022,RetailMart Coimbatore Branch 22,Coimbatore,Tamil Nadu,South
+S023,RetailMart Jaipur Branch 23,Jaipur,Rajasthan,North
+S024,RetailMart Delhi Branch 24,Delhi,Delhi,North
+S025,RetailMart Ahmedabad Branch 25,Ahmedabad,Gujarat,West
+S026,RetailMart Chennai Branch 26,Chennai,Tamil Nadu,South
+S027,RetailMart Mumbai Branch 27,Mumbai,Maharashtra,West
+S028,RetailMart Delhi Branch 28,Delhi,Delhi,North
+S029,RetailMart Mysuru Branch 29,Mysuru,Karnataka,South
+S030,RetailMart Bengaluru Branch 30,Bengaluru,Karnataka,South
+S031,RetailMart Kanpur Branch 31,Kanpur,Uttar Pradesh,North
+S032,RetailMart Mysuru Branch 32,Mysuru,Karnataka,South
+S033,RetailMart Lucknow Branch 33,Lucknow,Uttar Pradesh,North
+S034,RetailMart Lucknow Branch 34,Lucknow,Uttar Pradesh,North
+S035,RetailMart Ahmedabad Branch 35,Ahmedabad,Gujarat,West
+S036,RetailMart Warangal Branch 36,Warangal,Telangana,South
+S037,RetailMart Kolkata Branch 37,Kolkata,West Bengal,East
+S038,RetailMart Mysuru Branch 38,Mysuru,Karnataka,South
+S039,RetailMart Kanpur Branch 39,Kanpur,Uttar Pradesh,North
+S040,RetailMart Bengaluru Branch 40,Bengaluru,Karnataka,South
+S041,RetailMart Surat Branch 41,Surat,Gujarat,West
+S042,RetailMart Lucknow Branch 42,Lucknow,Uttar Pradesh,North
+S043,RetailMart Mumbai Branch 43,Mumbai,Maharashtra,West
+S044,RetailMart Bengaluru Branch 44,Bengaluru,Karnataka,South
+S045,RetailMart Warangal Branch 45,Warangal,Telangana,South
+S046,RetailMart Pune Branch 46,Pune,Maharashtra,West
+S047,RetailMart Surat Branch 47,Surat,Gujarat,West
+S048,RetailMart Bengaluru Branch 48,Bengaluru,Karnataka,South
+S049,RetailMart Pune Branch 49,Pune,Maharashtra,West
+S050,RetailMart Mysuru Branch 50,Mysuru,Karnataka,South
+S051,RetailMart Kanpur Branch 51,Kanpur,Uttar Pradesh,North
+S052,RetailMart Ahmedabad Branch 52,Ahmedabad,Gujarat,West
+S053,RetailMart Kolkata Branch 53,Kolkata,West Bengal,East
+S054,RetailMart Lucknow Branch 54,Lucknow,Uttar Pradesh,North
+S055,RetailMart Coimbatore Branch 55,Coimbatore,Tamil Nadu,South
+S056,RetailMart Lucknow Branch 56,Lucknow,Uttar Pradesh,North
+S057,RetailMart Lucknow Branch 57,Lucknow,Uttar Pradesh,North
+S058,RetailMart Mumbai Branch 58,Mumbai,Maharashtra,West
+S059,RetailMart Ahmedabad Branch 59,Ahmedabad,Gujarat,West
+S060,RetailMart Bengaluru Branch 60,Bengaluru,Karnataka,South
+S061,RetailMart Coimbatore Branch 61,Coimbatore,Tamil Nadu,South
+S062,RetailMart Pune Branch 62,Pune,Maharashtra,West
+S063,RetailMart Coimbatore Branch 63,Coimbatore,Tamil Nadu,South
+S064,RetailMart Kolkata Branch 64,Kolkata,West Bengal,East
+S065,RetailMart Kanpur Branch 65,Kanpur,Uttar Pradesh,North
+S066,RetailMart Ahmedabad Branch 66,Ahmedabad,Gujarat,West
+S067,RetailMart Pune Branch 67,Pune,Maharashtra,West
+S068,RetailMart Delhi Branch 68,Delhi,Delhi,North
+S069,RetailMart Warangal Branch 69,Warangal,Telangana,South
+S070,RetailMart Pune Branch 70,Pune,Maharashtra,West
+S071,RetailMart Warangal Branch 71,Warangal,Telangana,South
+S072,RetailMart Delhi Branch 72,Delhi,Delhi,North
+S073,RetailMart Kanpur Branch 73,Kanpur,Uttar Pradesh,North
+S074,RetailMart Ahmedabad Branch 74,Ahmedabad,Gujarat,West
+S075,RetailMart Bengaluru Branch 75,Bengaluru,Karnataka,South
+S076,RetailMart Mumbai Branch 76,Mumbai,Maharashtra,West
+S077,RetailMart Delhi Branch 77,Delhi,Delhi,North
+S078,RetailMart Mumbai Branch 78,Mumbai,Maharashtra,West
+S079,RetailMart Kochi Branch 79,Kochi,Kerala,South
+S080,RetailMart Kanpur Branch 80,Kanpur,Uttar Pradesh,North
+S081,RetailMart Kolkata Branch 81,Kolkata,West Bengal,East
+S082,RetailMart Chennai Branch 82,Chennai,Tamil Nadu,South
+S083,RetailMart Ahmedabad Branch 83,Ahmedabad,Gujarat,West
+S084,RetailMart Chennai Branch 84,Chennai,Tamil Nadu,South
+S085,RetailMart Pune Branch 85,Pune,Maharashtra,West
+S086,RetailMart Ahmedabad Branch 86,Ahmedabad,Gujarat,West
+S087,RetailMart Jaipur Branch 87,Jaipur,Rajasthan,North
+S088,RetailMart Kanpur Branch 88,Kanpur,Uttar Pradesh,North
+S089,RetailMart Lucknow Branch 89,Lucknow,Uttar Pradesh,North
+S090,RetailMart Pune Branch 90,Pune,Maharashtra,West
+S091,RetailMart Chennai Branch 91,Chennai,Tamil Nadu,South
+S092,RetailMart Kochi Branch 92,Kochi,Kerala,South
+S093,RetailMart Bengaluru Branch 93,Bengaluru,Karnataka,South
+S094,RetailMart Warangal Branch 94,Warangal,Telangana,South
+S095,RetailMart Mysuru Branch 95,Mysuru,Karnataka,South
+S096,RetailMart Chennai Branch 96,Chennai,Tamil Nadu,South
+S097,RetailMart Coimbatore Branch 97,Coimbatore,Tamil Nadu,South
+S098,RetailMart Jaipur Branch 98,Jaipur,Rajasthan,North
+S099,RetailMart Bengaluru Branch 99,Bengaluru,Karnataka,South
+S100,RetailMart Kanpur Branch 100,Kanpur,Uttar Pradesh,North
+S101,RetailMart Kanpur Branch 101,Kanpur,Uttar Pradesh,North
+S102,RetailMart Kolkata Branch 102,Kolkata,West Bengal,East
+S103,RetailMart Ahmedabad Branch 103,Ahmedabad,Gujarat,West
+S104,RetailMart Hyderabad Branch 104,Hyderabad,Telangana,South
+S105,RetailMart Mysuru Branch 105,Mysuru,Karnataka,South
+S106,RetailMart Ahmedabad Branch 106,Ahmedabad,Gujarat,West
+S107,RetailMart Delhi Branch 107,Delhi,Delhi,North
+S108,RetailMart Mysuru Branch 108,Mysuru,Karnataka,South
+S109,RetailMart Surat Branch 109,Surat,Gujarat,West
+S110,RetailMart Jaipur Branch 110,Jaipur,Rajasthan,North
+S111,RetailMart Coimbatore Branch 111,Coimbatore,Tamil Nadu,South
+S112,RetailMart Kolkata Branch 112,Kolkata,West Bengal,East
+S113,RetailMart Hyderabad Branch 113,Hyderabad,Telangana,South
+S114,RetailMart Ahmedabad Branch 114,Ahmedabad,Gujarat,West
+S115,RetailMart Coimbatore Branch 115,Coimbatore,Tamil Nadu,South
+S116,RetailMart Mysuru Branch 116,Mysuru,Karnataka,South
+S117,RetailMart Surat Branch 117,Surat,Gujarat,West
+S118,RetailMart Mumbai Branch 118,Mumbai,Maharashtra,West
+S119,RetailMart Chennai Branch 119,Chennai,Tamil Nadu,South
+S120,RetailMart Lucknow Branch 120,Lucknow,Uttar Pradesh,North
