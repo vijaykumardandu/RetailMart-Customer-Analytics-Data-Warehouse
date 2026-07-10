@@ -339,8 +339,8 @@ The project answers questions such as:
 
 **Vijay Kumar Dandu**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/vijaykumardandu
+- LinkedIn: https://www.linkedin.com/in/vijaykumar841
 
 ---
 
