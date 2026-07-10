@@ -1,5 +1,7 @@
 # Customer Analytics Data Warehouse
 
+Dashboard Link: https://app.powerbi.com/groups/me/reports/7c1c18f4-d0cf-4277-955d-999fa1ea6210/412d1c2fa296884c864b?experience=power-bi
+
 An end-to-end data warehousing and business intelligence project built using **Snowflake, SQL, Python, and Power BI**. The project demonstrates how retail sales data can be transformed into meaningful business insights through a modern analytics pipeline.
 
 ---
