@@ -1,4 +1,4 @@
-# Customer Analytics Data Warehouse
+# RetailMart-Customer-Analytics-Data-Warehouse
 
 Dashboard Link: https://app.powerbi.com/groups/me/reports/7c1c18f4-d0cf-4277-955d-999fa1ea6210/412d1c2fa296884c864b?experience=power-bi
 
